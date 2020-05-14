@@ -1,0 +1,1 @@
+# docker-pronto-credo
